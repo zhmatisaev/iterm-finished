@@ -1,0 +1,28 @@
+	h3 {
+width: 414.6px;
+height: 58px;
+margin: 45px 0 0 24px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 120%;
+color: #1D212A;
+	}
+	p{
+		margin: 16px 0px 0px 24px;
+	}
+	.delete__account{
+		display: flex;
+		justify-content: space-between;
+		align-items: flex-end;
+		width: 430px;
+		height: 58px;
+		margin: 46px 0px 0px 24px;
+	}
+	.delete__back{
+		margin-left: 20px;
+	}
+	.delete__delete{
+		background: #FF607C;
+	}

@@ -1,0 +1,138 @@
+body{
+    background-image: url(/src/pages/image/bgsgUp.png);
+    background-repeat: no-repeat;
+    background: cover;
+    width: 100%;
+    height: 100%;
+}
+.userProfile{
+    height: 680px;
+}
+
+.settings-block{
+    background-color: #fff;
+    box-shadow: -7px 10px 10px 20px #e0e1e4;
+    border-radius: 8px;
+    width: 760px;
+    height: 600px;
+    position: absolute;
+    right: 122px;
+    top: 113px;
+}
+
+.input_pls{
+    color: black;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+}
+
+.info__text{
+    display: flex;
+    flex-direction: column;
+}
+
+.setting-header{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.setting-img img:first-child{
+    width: 81px;
+    height: 81px;
+    margin-left: 24px;
+    margin-top: 30px;
+}
+
+.setting-img img:nth-child(2){
+    width: 24px;
+    height: 24px;
+    margin-left: -50px;
+    margin-top: 20px;
+}
+
+.set{
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+color: #1D212A;
+margin-left: 25px;
+margin-top: 48px;
+}
+
+.info__text p{
+margin-left: 64px;
+}
+
+.info__text span{
+    margin-left: 64px;
+}
+
+.browse{
+    margin-left: 64px;
+    margin-top: 24px;
+}
+
+/* inputs */
+.inputs{
+    display: flex;
+    margin-top: 25px;
+    margin-left: 24px;
+    line-height: 30px;
+}
+
+.TextField{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 24px;
+    margin-right: 24px;
+    width: 424px;
+}
+.second_input{
+    margin-right: -24px;
+}
+
+.input_2{
+    margin-top: 24px;
+}
+.input_3{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+    margin-top: 24px;
+}
+
+.icon_img{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 255px;
+    margin-top: 30px;
+    z-index: 2;
+}
+
+.done_img{
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 255px;
+    margin-top: -27px;
+    z-index: 2;
+}
+
+.link{
+    margin-top: 35px;
+}
+
+.input_4{
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    margin-top: 35px;
+    justify-content: space-between;
+}

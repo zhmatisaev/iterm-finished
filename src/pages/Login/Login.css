@@ -1,0 +1,101 @@
+.sign_up{
+    display: flex;
+    margin: 50px 0 50px 0;
+}
+.empty__blue-section1{
+    width: 600px;
+    height: 600px;
+    background: #8770FF;
+    margin-bottom: 60px;
+    border-radius: 0px 8px 8px 0px;
+}
+.sign_up__block1{
+    width: 500px;
+    height: 600px;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px 0px 0px 8px;
+}
+.sign_up__block-inside{
+    width: 250px;
+}
+input::placeholder{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+color: #DADFEB;
+}
+.title{
+margin-top: 40px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 120%;
+color: #1D212A;
+}
+.name{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 120%;
+color: #565A65;
+}
+.name-sign{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 120%;
+color: #565A65;
+text-align: center;
+margin-top: 50px;
+}
+.or{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 120%;
+text-align: center;
+color: #565A65;
+margin-bottom: 20px;
+text-align: center;
+}
+p{
+    margin-top: 30px;
+}
+
+.sign_up__btn{
+    margin-top: 20px;
+    width: 250px;
+}
+
+.btn_sign{
+width: 120px;
+height: 48px;
+background: rgba(135, 112, 255, 0.1);
+border-radius: 8px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+color: #565A65;
+border: none;
+margin-right: 5px;
+}
+
+.footer__title{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+margin-top: 15px;
+margin-left: 0;
+color: #565A65;
+}

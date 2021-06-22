@@ -1,0 +1,281 @@
+/* import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Poppins:wght@100&display=swap');
+
+.header-section {
+  background-image: url(../../images/main-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 820px;
+  margin-top: -72px;
+  padding: 206px 0 0 0;
+}
+
+.header-item{
+margin-top: -50px;
+}
+
+.sub-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 150%;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #B6BFD9;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 48px;
+  line-height: 120%;
+  color: #1d212a;
+}
+.text {
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 120%;
+  color: #646464;
+}
+
+.faq-section {
+  margin-bottom: 150px;
+  } 
+
+  .ant-collapse > .ant-collapse-item:last-child,
+  .ant-collapse > .ant-collapse-item:last-child > .ant-collapse-header {
+    border-radius: 0px;
+  }
+
+  .ant-collapse > .ant-collapse-item > .ant-collapse-header {
+    font-size: 24px;
+    line-height: 120%;
+  }
+
+  .collapse-block {
+    display: flex;
+  }
+
+  .sidebar {
+    width: 300px;
+    margin-right: 78px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  h3 {
+    margin-bottom: 24px;
+    font-size: 24px;
+    line-height: 120%;
+    color: #1d212a;
+  }
+
+  .collapse {
+    width: 100%;
+  }
+
+/* Second section */
+.second-section_main{
+  margin-top: -50px;
+}
+
+.second-section{
+  display: flex;
+  position: relative;
+}
+
+.second-section__img{
+  width: 642px;
+  height: 720px;
+}
+
+.AI{
+  position: absolute;
+  width: 220px;
+  height: 190px;
+  top: -120px;
+  right: 320px;
+  opacity: 0.6;
+  z-index: -1;
+}
+
+.second-section_title{
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+letter-spacing: 0.1em;
+text-transform: uppercase;
+color: #B6BFD9;
+z-index: 111;
+}
+
+.second-section__item{
+font-family: Poppins;
+font-style: normal;
+font-weight: 300;
+font-size: 48px;
+line-height: 120%;
+color: #1D212A;
+}
+
+.second-section__text{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 130%;
+color: #565A65;
+margin-top: 10px;
+}
+
+.second-section__p p{
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+color: #565A65;
+margin-left: 51px;
+margin-top: 20px;
+}
+
+.icon-right{
+  color: #32D989;
+  font-size: 14px;
+}
+
+.second-section__btns{
+  margin-top: 40px;
+}
+
+.btn-learn-more{
+font-family: Poppins;
+font-style: normal;
+font-size: 16px;
+line-height: 150%;
+color: #1D212A;
+}
+
+/* section third */
+.third-section__img{
+  margin: 100px 0px 50px 0;
+}
+
+.third-section__img img{
+  width: inherit;
+}
+
+/* all-sections */
+.all-sections{
+  position: relative;
+}
+
+/* Fourth section */
+.fourth-section__img img{
+  width: 1210px;
+}
+
+/* fifth section */
+.fifth-section__img{
+  text-align: center;
+}
+
+.fifth-section__img .circle{
+  width: 1100px;
+}
+
+.fifth-section__img .marker{
+    width: 230px;
+    height: 280px;
+    position: relative;
+    top: -393px;
+    left: 174px;
+    z-index: 9;
+}
+
+/* icons */
+.icon-container{
+  position: relative;
+    top: -445px;
+    margin-bottom: -400px;
+}
+
+.icons{
+    width: 778px;
+    height: 300px;
+    background: #d5d6da;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+.icon{
+  width: 780px;
+  height: 290px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: -30px;
+}
+
+.icon-img{
+  width: 40px;
+  height: 40px;
+  padding: -80px;
+}
+
+.icon-text{
+width: 129px;
+height: 48px;
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 150%;
+display: flex;
+align-items: center;
+text-align: center;
+color: #1D212A;
+}
+
+.icon-card{
+  height: 96px;
+  width: 129px;
+  margin: 0px 30px;
+}
+
+/* blue section */
+.blue-img{
+  width: inherit;
+  position: relative;
+  top: -90px;
+  z-index: -10;
+}
+
+.card-section{
+  text-align: center;
+}
+
+/* card section */
+.card-img{
+  width: 1210px;
+  margin: 50px auto;
+}
+
+.card-section2{
+  text-align: center;
+}
+
+.card-img2{
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}

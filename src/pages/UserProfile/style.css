@@ -1,0 +1,45 @@
+
+.navbar {
+  width: 906px;
+  height: 620px;
+  background-color: #ffffff;
+  /* background: cover; */
+  margin-top: 100px;
+}
+
+.user__side-bar{
+  margin-top: 70px;
+}
+
+.side-bar {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+.side-bar img {
+      width: 24px;
+      height: 24px;
+      margin-top: 28px;
+}
+
+.side-bar p{
+    margin-left: 10px;
+}
+  
+.user {
+    flex-direction: column-reverse;
+} 
+
+.user img {
+    position: inherit;
+    margin-top: -65px;
+    margin-left: 90px;
+    margin-bottom: 25px;
+}
+    
+.user p{
+    margin-top: 10px;
+    margin-left: 110px;
+    margin-bottom: 10px;
+}
+  
