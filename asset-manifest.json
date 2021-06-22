@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/iterm-finished/static/css/main.c30db418.chunk.css",
+    "main.js": "/iterm-finished/static/js/main.aa8009ec.chunk.js",
+    "main.js.map": "/iterm-finished/static/js/main.aa8009ec.chunk.js.map",
+    "runtime-main.js": "/iterm-finished/static/js/runtime-main.1da40565.js",
+    "runtime-main.js.map": "/iterm-finished/static/js/runtime-main.1da40565.js.map",
+    "static/css/2.8c5372c1.chunk.css": "/iterm-finished/static/css/2.8c5372c1.chunk.css",
+    "static/js/2.ee3c9cd5.chunk.js": "/iterm-finished/static/js/2.ee3c9cd5.chunk.js",
+    "static/js/2.ee3c9cd5.chunk.js.map": "/iterm-finished/static/js/2.ee3c9cd5.chunk.js.map",
+    "index.html": "/iterm-finished/index.html",
+    "static/css/2.8c5372c1.chunk.css.map": "/iterm-finished/static/css/2.8c5372c1.chunk.css.map",
+    "static/css/main.c30db418.chunk.css.map": "/iterm-finished/static/css/main.c30db418.chunk.css.map",
+    "static/js/2.ee3c9cd5.chunk.js.LICENSE.txt": "/iterm-finished/static/js/2.ee3c9cd5.chunk.js.LICENSE.txt",
+    "static/media/AI.6521b1ac.png": "/iterm-finished/static/media/AI.6521b1ac.png",
+    "static/media/Group 825.532ed884.png": "/iterm-finished/static/media/Group 825.532ed884.png",
+    "static/media/Group 826.5e3136ed.png": "/iterm-finished/static/media/Group 826.5e3136ed.png",
+    "static/media/Group3.0a89f0ce.png": "/iterm-finished/static/media/Group3.0a89f0ce.png",
+    "static/media/Group4.941e1a93.png": "/iterm-finished/static/media/Group4.941e1a93.png",
+    "static/media/ava.cebfa09d.png": "/iterm-finished/static/media/ava.cebfa09d.png",
+    "static/media/setting.css": "/iterm-finished/static/media/bgsgUp.68528a38.png",
+    "static/media/card.7b4d5125.png": "/iterm-finished/static/media/card.7b4d5125.png",
+    "static/media/circle.7d5d2c1d.png": "/iterm-finished/static/media/circle.7d5d2c1d.png",
+    "static/media/Footer.css": "/iterm-finished/static/media/footer-bg.3e7c6ffb.png",
+    "static/media/Home.css": "/iterm-finished/static/media/main-bg.24f55edf.png",
+    "static/media/main2.5113d510.png": "/iterm-finished/static/media/main2.5113d510.png",
+    "static/media/marker.2de7a16b.png": "/iterm-finished/static/media/marker.2de7a16b.png",
+    "static/media/setting.36fbd6ee.png": "/iterm-finished/static/media/setting.36fbd6ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1da40565.js",
+    "static/css/2.8c5372c1.chunk.css",
+    "static/js/2.ee3c9cd5.chunk.js",
+    "static/css/main.c30db418.chunk.css",
+    "static/js/main.aa8009ec.chunk.js"
+  ]
+}
